@@ -44,7 +44,7 @@ event_time,frame_time,age_ms,x,y,z,qx,qy,qz,qw,rigid_body_id
 ```
 
 ## Requirements
-Python 3.8+, Motive (NatNet enabled), UDP ports 1510/1511 allowed, NatNet client files present (`NatNetClient.py`, etc.).
+Python 3.8+, Motive (NatNet enabled, check your data stream pane), UDP ports 1510/1511 allowed.
 
 ## Tips
 - "No data yet" → check IPs, firewall, Streaming ID.
